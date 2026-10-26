@@ -10,7 +10,7 @@ Standing instructions for every agent working in this repo. The top part is abou
 
 The flywheel interview fills these in. Until then, if the idea line says TBD, offer to run the flywheel interview before anything else.
 
-More context: `canvas.md` (customer, problem, offer), `flywheel.md` (how the business works and this week's goals), `backlog.md` (the jobs).
+More context: `canvas.md` (customer, problem, offer), `strategy.md` (purpose, values, where we play, this year's and this quarter's priorities), `flywheel.md` (how the business works and this week's goals), `backlog.md` (the jobs).
 
 <!-- starter rules begin: `update the starter` may replace everything between these markers. Put your own rules below the end marker. -->
 
@@ -22,6 +22,12 @@ The repo is the company. Product, marketing, sales, customers, finance and back 
 - **Why:** agents think in departments unless told otherwise. A flywheel layout tells every agent what its segment produces and who uses that output next. It also makes the repo predictable, so an agent finds the brand, the offer or the price without being told where they are.
 - Each project folder has a `CONTEXT.md`. When you start in a project folder, read its `CONTEXT.md` first, then only the files it points to.
 - **Why:** too much context is a failure mode. An agent handed everything guesses. A short briefing plus a well-organized repo to search beats a brain dump.
+
+## Strategy before action
+
+- Read `strategy.md` before you set priorities, write anything for a customer, or start something new. Its core values break ties between options that both meet the brief.
+- If a job would cross a decision in `strategy.md` (an out-of-scope market, a value, this quarter's priorities), stop and ask. Never work around it quietly.
+- **Why:** agents drift at machine speed. An agent that knows the idea but not the direction does helpful things in random directions: the feature you decided against, the customer you said no to. A strategy written down is what keeps every agent pointed the same way.
 
 ## Memory: if it isn't in the repo, it didn't happen
 
@@ -65,7 +71,7 @@ The repo is the company. Product, marketing, sales, customers, finance and back 
 
 - Every piece of work is a job in `backlog.md` (or a GitHub issue, if you use them). Capture fast: the idea and where it came from are enough. The `sweep` skill defines it later.
 - A job is ready when it has a goal, a done test, the place where a human checks, and its door (one-way or two-way).
-- Each job serves a goal in `flywheel.md` and says how much: essential, important or nice to have. Prioritize jobs only against each other, never in isolation.
+- Each job serves a goal in `flywheel.md` or a priority in `strategy.md`, and says how much: essential, important or nice to have. Prioritize jobs only against each other, never in isolation.
 - Agents that manage the backlog never do the work on it.
 - **Why:** a job nobody wrote down can't be handed to an agent or checked later. A giant form makes every job die on initiation, so capture stays light. A coordinator that also does the work gets lost and never finishes the queue.
 
@@ -102,7 +108,7 @@ When the founder says `start the job "<title>" from backlog.md`:
 
 ## Files and git
 
-- Name documents `YYYY-MM-DD_description.md`, so they sort by date and show their age. Living summaries (`CONTEXT.md`, `flywheel.md`, `canvas.md`) have no date and are updated in place.
+- Name documents `YYYY-MM-DD_description.md`, so they sort by date and show their age. Living summaries (`CONTEXT.md`, `flywheel.md`, `canvas.md`, `strategy.md`) have no date and are updated in place.
 - One file per document. Revise it in place and let git keep the history. Never create `_v2` or `_final` copies.
 - Commit small and often, with clear messages. Never leave a large uncommitted change lying around.
 - Today's date comes from the session-start hook. Never assume it from training data.

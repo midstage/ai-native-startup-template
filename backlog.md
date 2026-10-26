@@ -27,7 +27,7 @@ Copy this block for each job. Leave a line as TBD if you don't know it yet.
 Status: New
 Stage: Product | Marketing | Sales | Success | Finance | Capacity
 Door: two-way | one-way
-Serves: <a goal in flywheel.md> (essential | important | nice to have)
+Serves: <a goal in flywheel.md or a priority in strategy.md> (essential | important | nice to have)
 
 Idea: What came up, in a sentence or two.
 Source: Where it came from (a call, a file, a session).

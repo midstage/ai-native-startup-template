@@ -9,7 +9,7 @@ A business grows only as fast as its weakest flywheel segment. More work on a st
 
 ## Start fast
 
-Read `flywheel.md`, last week's goals in it, and `backlog.md` (what got done, what's stuck, what's Waiting for human).
+Read `flywheel.md`, last week's goals in it, `strategy.md` (this quarter's priorities and critical number), and `backlog.md` (what got done, what's stuck, what's Waiting for human).
 
 Ask one question, all at once:
 
@@ -26,8 +26,8 @@ Write the colors into the Health lines of `flywheel.md`. Go into a longer conver
 ## Set the week
 
 1. Review last week's goals: done, partly done, or not done, and why, in one line each.
-2. Propose one to three goals for this week. At least one should strengthen the constraint. Each goal says what will be true at the end of the week.
-3. Write the confirmed goals under **Goals this week** in `flywheel.md`. Move anything that lasts longer to **Longer-term goals**.
+2. Propose one to three goals for this week. At least one should strengthen the constraint, and every goal should move a priority for this quarter in `strategy.md`. Each goal says what will be true at the end of the week.
+3. Write the confirmed goals under **Goals this week** in `flywheel.md`. Anything that lasts longer than a week is a quarterly priority: propose adding it to `strategy.md` and ask first.
 
 ## Clean the backlog
 

@@ -28,6 +28,7 @@ You need a GitHub account and Claude Code, signed in with a Claude plan that inc
 | `CLAUDE.md` | Standing instructions for every agent, with the reason next to each rule. Holds your startup idea once the interview fills it in. |
 | `flywheel.md` | How your business turns strangers into customers and repeat customers, segment by segment, and this week's goals. |
 | `canvas.md` | One page: your idea, your customer, their problem and your offer. |
+| `strategy.md` | Your plan at a glance: purpose, values, moonshot goal, core customer, where you play, and this year's and this quarter's priorities. Agents check it before they act. |
 | `backlog.md` | The jobs your company needs done, written so an agent can pick one up. |
 | `work/` | Everything else, filed by flywheel segment (see below). |
 | `docs/decisions/` | One file per decision, never edited after the fact. |
@@ -57,7 +58,7 @@ Say the phrase in Claude Code, or type `/` plus the skill name.
 
 | Skill | Say | What it does |
 |---|---|---|
-| `flywheel-interview` | "run the flywheel interview" | Interviews you segment by segment and fills in `CLAUDE.md`, `canvas.md`, `flywheel.md` and your first jobs. |
+| `flywheel-interview` | "run the flywheel interview", "interview me on strategy" | Interviews you segment by segment and fills in `CLAUDE.md`, `canvas.md`, `strategy.md`, `flywheel.md` and your first jobs. |
 | `wrap` | "wrap" | End of session: saves what was decided and what's next into the project's `CONTEXT.md`, then commits and pushes. |
 | `sweep` | "sweep the backlog" | Goes through newly captured jobs, links each to a goal, makes the done test checkable, and asks you only what it can't settle. Never does the work itself. |
 | `decisions` | "decisions" | Your morning queue: one decision at a time, each with a suggested answer, in a 15-minute box. |

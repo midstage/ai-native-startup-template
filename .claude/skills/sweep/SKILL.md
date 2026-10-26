@@ -11,13 +11,13 @@ Jobs are captured fast, in the middle of something else: a title, an idea, where
 
 ## Where jobs live
 
-`backlog.md` (the Jobs section), or GitHub issues labelled `new` if the founder uses issues. Read whichever holds jobs. Also read `flywheel.md` (Goals this week, Longer-term goals, The constraint) and `canvas.md`.
+`backlog.md` (the Jobs section), or GitHub issues labelled `new` if the founder uses issues. Read whichever holds jobs. Also read `flywheel.md` (Goals this week, The constraint), `strategy.md` (this quarter's and this year's priorities, Where we play) and `canvas.md`.
 
 ## For each job with status New
 
 1. **Context:** search the repo for what the agent will need (the right segment folder, company folder, earlier decisions). Put those paths in Inputs.
 2. **Stage:** which flywheel segment does it move?
-3. **Goal it serves:** link it to a goal in `flywheel.md` and say how much it matters:
+3. **Goal it serves:** link it to a goal in `flywheel.md` or a priority in `strategy.md`, and say how much it matters. If it falls in an out-of-scope market in `strategy.md`, flag it for the founder instead:
    - **essential:** the goal can't be reached without it
    - **important:** the goal is much harder without it
    - **nice to have**

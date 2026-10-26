@@ -17,7 +17,7 @@ Only these may be updated:
 - in `CLAUDE.md`, only the text between `<!-- starter rules begin` and `<!-- starter rules end -->`
 - the `README.md` files inside `work/` folders, and the templates (`work/7_projects/_template/`, `docs/decisions/_template.md`, `.github/ISSUE_TEMPLATE/job.md`)
 
-Everything else belongs to the founder and is never changed: `flywheel.md`, `canvas.md`, `backlog.md`, the rest of `CLAUDE.md`, everything else under `work/` and `docs/decisions/`, and any skill or hook the founder added.
+Everything else belongs to the founder and is never changed: `flywheel.md`, `canvas.md`, `strategy.md`, `backlog.md`, the rest of `CLAUDE.md`, everything else under `work/` and `docs/decisions/`, and any skill or hook the founder added.
 
 ## Steps
 

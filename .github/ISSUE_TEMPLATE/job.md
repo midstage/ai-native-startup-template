@@ -13,7 +13,7 @@ labels: new
 
 **Stage:** TBD (Product, Marketing, Sales, Success, Finance or Capacity)
 **Door:** TBD (one-way or two-way)
-**Serves:** TBD (a goal in flywheel.md: essential, important or nice to have)
+**Serves:** TBD (a goal in flywheel.md or a priority in strategy.md: essential, important or nice to have)
 
 **Goal:** TBD
 **Done means:** TBD

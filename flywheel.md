@@ -81,10 +81,10 @@ The weakest segment right now, and why. The `priorities` skill updates this ever
 
 ## Goals this week
 
-Set by the `priorities` skill. Every job in `backlog.md` serves one of these, or a longer-term goal below.
+Set by the `priorities` skill. Every job in `backlog.md` serves one of these, or a priority in `strategy.md`.
 
 1. TBD
 
 ## Longer-term goals
 
-1. TBD
+These live in `strategy.md`: this quarter's priorities, this year's priorities, and everything above them. Keep them there, not here, so each goal has one home.
