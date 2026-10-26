@@ -54,4 +54,4 @@ The **licensor** is the individual or entity offering these terms, and the **sof
 
 **Use** means anything you do with the software requiring one of your licenses.
 
-Required Notice: Copyright (c) 2026 Midstage Ventures LLC (https://midstage.ac)
+Required Notice: Copyright (c) 2026 Scale-up Allies LLC dba Midstage Accelerator (https://midstage.ac)
