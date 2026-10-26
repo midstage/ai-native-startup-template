@@ -77,4 +77,8 @@ Rules written for an agent can be overruled by the agent. Hooks can't. This repo
 
 This repo deliberately leaves out stack-specific rules (testing, UI) and third-party skill packs. Add them when you need them. Roland uses, among others, [gstack](https://github.com/garrytan/gstack) for product and engineering reviews and [superpowers](https://github.com/obra/superpowers) for debugging and test-driven development.
 
+## License
+
+Free to use and change for your own startup, under the [PolyForm Internal Use License 1.0.0](LICENSE.md). You may not share, resell or redistribute this repo or a version of it.
+
 Made for the [AI-Native Startup session](https://skills.midstage.ac/ai-native/build) by [Midstage](https://midstage.ac).
