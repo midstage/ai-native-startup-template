@@ -46,7 +46,7 @@ Sales: <rung> <number> (yesterday <number>, 7 days ago <number>). Not measured y
 Weakest: <offers | traffic | sales>. Next step: <one concrete step, e.g. "put the offer on a page with a price and a visitor counter">.
 ```
 
-**Weakest** is the first of the three, in order, that is at zero: no live offer beats everything else. With exactly one live offer and traffic and sales not at zero, add one line: "One offer is one bet. Next offer to test: <a suggestion from canvas.md>". Keep the entry to these lines. No encouragement, no excuses on the founder's behalf.
+**Weakest** is the first of the three, in order, that is at zero: no live offer beats everything else. Always count the offers, even when there is only one. Whenever fewer than two are live, add one line: "One offer is one bet. Next offer to test: <a suggestion from canvas.md>". Keep the entry to these lines. No encouragement, no excuses on the founder's behalf.
 
 ## Daily run
 
