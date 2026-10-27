@@ -1,0 +1,28 @@
+# Paths owned by the AI-Native Startup Template. `update the starter` may
+# update these and nothing else. CLAUDE.md is updated only between its
+# starter rules markers.
+.claude/skills/flywheel-interview/
+.claude/skills/wrap/
+.claude/skills/sweep/
+.claude/skills/decisions/
+.claude/skills/checker/
+.claude/skills/priorities/
+.claude/skills/update-starter/
+.claude/hooks/session-start.sh
+.claude/hooks/confirm-outward.sh
+.claude/hooks/guard-bash.sh
+.claude/settings.json
+.github/ISSUE_TEMPLATE/job.md
+docs/decisions/README.md
+docs/decisions/_template.md
+work/0_meta/README.md
+work/1_marketable/README.md
+work/2_demand/README.md
+work/3_sales/README.md
+work/4_success/README.md
+work/5_runway/README.md
+work/6_capacity/README.md
+work/7_projects/README.md
+work/7_projects/_template/CONTEXT.md
+work/8_companies/README.md
+work/9_archive/README.md
