@@ -62,6 +62,7 @@ Say the phrase in Claude Code, or type `/` plus the skill name.
 | `wrap` | "wrap" | End of session: saves what was decided and what's next into the project's `CONTEXT.md`, then commits and pushes. |
 | `sweep` | "sweep the backlog" | Goes through newly captured jobs, links each to a goal, makes the done test checkable, and asks you only what it can't settle. Never does the work itself. |
 | `decisions` | "decisions" | Your morning queue: one decision at a time, each with a suggested answer, in a 15-minute box. |
+| `traction-update` | "traction update" | Daily: reports the highest rung of the traction ladder you can measure (revenue, users, signups, visitors, followers, conversations) and how to climb one rung. Schedule it in the desktop app. |
 | `checker` | "check the job ..." | A second agent verifies delivered work against its done test. The doer never grades itself. |
 | `priorities` | "priorities review" | Weekly: finds the weakest segment of your flywheel and sets this week's goals around it. |
 | `update-starter` | "update the starter" | Pulls the latest rules and skills from this public repo into your copy. Never touches your own files. |
