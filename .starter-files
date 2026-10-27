@@ -8,6 +8,7 @@
 .claude/skills/checker/
 .claude/skills/priorities/
 .claude/skills/update-starter/
+.claude/skills/traction-update/
 .claude/hooks/session-start.sh
 .claude/hooks/confirm-outward.sh
 .claude/hooks/guard-bash.sh
