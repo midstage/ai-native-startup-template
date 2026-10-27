@@ -64,3 +64,20 @@ Notes: Sending is a one-way door. The agent never sends.
 ## Jobs
 
 The flywheel interview proposes three to five first jobs and adds the ones you keep below this line.
+
+### Daily traction update
+
+Status: Ready
+Stage: Finance
+Door: two-way
+Serves: Get an offer in front of people and measure the response (essential)
+
+Idea: Every morning, see the one number that shows whether the offer works, or see plainly that it can't be measured yet.
+Source: The AI-Native Startup starter repo.
+
+Goal: Each morning, `work/0_meta/traction.md` has a new entry with the highest traction rung you can measure and its number.
+Done means: The first run sets a source (or "nowhere yet") for every rung, and today's entry names the top measurable rung, its number and one step to climb a rung. No number is invented.
+Where a human checks: `work/0_meta/traction.md`, today's entry, read in the Claude desktop app after the scheduled run.
+Inputs: canvas.md (Offer), flywheel.md (the one number per segment), the `traction-update` skill.
+Stop and ask when: A source needs a login, a password or a paid tool. Anything would be sent outside your computer.
+Notes: Then schedule it: Scheduled in the desktop app sidebar, daily, prompt `traction update`.
